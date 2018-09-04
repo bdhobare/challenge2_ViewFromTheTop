@@ -147,6 +147,18 @@ You can use the following resources to to get acquainted with some feature selec
 
 
 
+#### Model Selected: XGBoost
+    - Fast
+    - Quick cross validation
+    - Better accuracy
 
+
+#### Model tested: SVM
+
+    - Not a so good accuracy compared to XGB
+    - Supposed to work well with high dimensional data but didn't
+    
+### Model not tested: Deep Neural Networks
+    - Reason: The dataset is small, so there's a possibility of overfitting
 
 
